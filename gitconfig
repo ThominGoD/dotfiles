@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thomas.marilleau@mmibordeaux.com
+	name = Thomas MARILLEAU
