@@ -8,3 +8,4 @@ This repository is used by [Le Wagon](https://www.lewagon.com) students.
 # control-c
 # control-c
 # control-c
+# blog
